@@ -1,0 +1,4 @@
+Faixa de chance prevista,Lotes,Excelentes (real),Taxa real de excelência,% dos lotes,% dos excelentes,Ação recomendada
+Prioridade (chance ≥ 40%),23,15,0.6521739130434783,0.11274509803921569,0.5555555555555556,Enviar primeiro à avaliação sensorial; candidato à linha premium
+Avaliar (chance entre 10% e 40%),38,10,0.2631578947368421,0.18627450980392157,0.37037037037037035,"Avaliar em seguida; revisar álcool, acidez volátil e sulfatos"
+Baixo potencial (chance < 10%),143,2,0.013986013986013986,0.7009803921568627,0.07407407407407407,Avaliação simplificada; investigar o processo (ex.: acidez volátil alta)

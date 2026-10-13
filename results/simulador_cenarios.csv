@@ -1,0 +1,6 @@
+Cenário,Teor alcoólico (%),Acidez volátil (g/L),Sulfatos (g/L),Chance de alta qualidade
+Vinho típico (valores medianos),10.2,0.52,0.62,0.022532739857551238
+"Álcool 10,2% → 11,5%",11.5,0.52,0.62,0.044931792543453815
+"Acidez volátil 0,52 → 0,40",10.2,0.4,0.62,0.02665403733796661
+Álcool + acidez volátil (metas de processo),11.5,0.4,0.62,0.06299201242561633
+"Perfil completo dos excelentes (+ sulfatos 0,75)",11.5,0.4,0.75,0.23740845204056785

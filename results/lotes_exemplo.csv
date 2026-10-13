@@ -1,0 +1,4 @@
+Lote,Teor alcoólico (%),Acidez volátil (g/L),Sulfatos (g/L),Chance prevista,Faixa,Ação recomendada,Nota real dos especialistas
+Lote A,11.7,0.3,0.85,0.7179779934065458,Prioridade (chance ≥ 40%),Enviar primeiro à avaliação sensorial; candidato à linha premium,7
+Lote B,11.7,0.53,0.56,0.20185211262039152,Avaliar (chance entre 10% e 40%),"Avaliar em seguida; revisar álcool, acidez volátil e sulfatos",6
+Lote C,9.6,0.64,0.54,0.020806440166266083,Baixo potencial (chance < 10%),Avaliação simplificada; investigar o processo (ex.: acidez volátil alta),5

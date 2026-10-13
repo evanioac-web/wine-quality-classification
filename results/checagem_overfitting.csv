@@ -1,0 +1,6 @@
+,F1 treino,F1 validação cruzada,F1 teste,Diferença treino − validação
+Regressão Logística,0.533,0.525,0.494,0.008
+KNN,1.0,0.467,0.553,0.533
+SVM,0.632,0.51,0.5,0.122
+Árvore de Decisão,0.631,0.481,0.545,0.151
+Random Forest,0.743,0.538,0.592,0.206
